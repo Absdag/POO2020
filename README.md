@@ -1,3 +1,3 @@
 # POO2020
 
-Prueba secundaria
+Repositorio que permite realizar el trabajo de POO
